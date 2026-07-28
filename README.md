@@ -51,7 +51,8 @@ Built an interactive dashboard summarizing:
 
 > **Note:** The dashboard was built in Tableau but exported as a PowerPoint due to a Tableau Public publishing issue. A screenshot is included below for quick viewing.
 
-![Dashboard Screenshot]('Superstore Dashboard Screenshot.png')
+<img width="816" height="588" alt="image" src="https://github.com/user-attachments/assets/ab372df8-b940-45fa-b66e-72a75285ad70" />
+
 
 
 ## Key Takeaways
